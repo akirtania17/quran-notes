@@ -1,0 +1,2 @@
+"""Quran Notes backend application."""
+

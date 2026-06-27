@@ -1,0 +1,10 @@
+# Placeholder for assets directory
+# 
+# Required assets:
+# - icon.png (1024x1024 app icon)
+# - splash.png (splash screen image)
+# - adaptive-icon.png (Android adaptive icon)
+# - favicon.png (web favicon)
+#
+# For now, Expo will use default placeholders
+

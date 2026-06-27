@@ -1,0 +1,13 @@
+.venv
+__pycache__/
+*.pyc
+.pytest_cache
+.mypy_cache
+data/
+.env
+*.db
+node_modules/
+.git
+.gitignore
+.cursor
+
